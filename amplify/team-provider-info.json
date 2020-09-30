@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatbot-dev-132924-authRole",
+      "UnauthRoleArn": "arn:aws:iam::275102344571:role/amplify-chatbot-dev-132924-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::275102344571:role/amplify-chatbot-dev-132924-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-chatbot-dev-132924-deployment",
+      "UnauthRoleName": "amplify-chatbot-dev-132924-unauthRole",
+      "StackName": "amplify-chatbot-dev-132924",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:275102344571:stack/amplify-chatbot-dev-132924/23a550c0-02cd-11eb-93bf-0218c804214a",
+      "AmplifyAppId": "d3nkcp3e6m1rst"
+    }
+  }
+}
